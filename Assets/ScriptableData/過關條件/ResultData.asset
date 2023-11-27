@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f6010577eb8ec439ea6c94e4a6768f, type: 3}
+  m_Name: ResultData
+  m_EditorClassIdentifier: 
+  ResultDatas:
+  - Level: 1
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 2
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 3
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 4
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 5
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 6
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 7
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 8
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 9
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 1
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 10
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 1
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 11
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 1
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 12
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 1
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 13
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 14
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 15
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 16
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 17
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 18
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 19
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 20
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 2
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 21
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 22
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 23
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 24
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 25
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 26
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 0
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 27
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 28
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 29
+    Role_IsTouchInterRole: 0
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 0
+    Role_IsPanicKebbi: 0
+  - Level: 30
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 1
+    Role_IsPanicKebbi: 0
+  - Level: 31
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 1
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 1
+    Role_IsPanicKebbi: 0
+  - Level: 32
+    Role_IsTouchInterRole: 1
+    Role_TakeKeyItemAmount: 2
+    Role_IsWetting: 0
+    Role_IsOpenUmbrella: 0
+    Role_IsHappyKebbi: 1
+    Role_IsPanicKebbi: 0

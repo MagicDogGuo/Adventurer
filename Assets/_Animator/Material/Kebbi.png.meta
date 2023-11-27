@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: a15ef9aa4c9984200884d3c9aedd4153
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Kebbi_0
+  - first:
+      213: 21300002
+    second: Kebbi_1
+  - first:
+      213: 21300004
+    second: Kebbi_2
+  - first:
+      213: 21300006
+    second: Kebbi_3
+  - first:
+      213: 21300008
+    second: Kebbi_4
+  - first:
+      213: 21300010
+    second: Kebbi_5
+  - first:
+      213: 21300012
+    second: Kebbi_6
+  - first:
+      213: 21300014
+    second: Kebbi_7
+  - first:
+      213: 21300016
+    second: Kebbi_8
+  - first:
+      213: 21300018
+    second: Kebbi_9
+  - first:
+      213: 21300020
+    second: Kebbi_10
+  - first:
+      213: 21300022
+    second: Kebbi_11
+  - first:
+      213: 21300024
+    second: Kebbi_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kebbi_0
+      rect:
+        serializedVersion: 2
+        x: 15.896496
+        y: 230.45279
+        width: 60.668736
+        height: 64.68622
+      alignment: 9
+      pivot: {x: 0.5647969, y: 0.8184661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 251
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.21802373, y: 0.23876743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 251
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.71190923, y: 0.2571869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_3
+      rect:
+        serializedVersion: 2
+        x: 200.22852
+        y: 245.38779
+        width: 37.705612
+        height: 35.00992
+      alignment: 9
+      pivot: {x: 0.32783544, y: 0.6195806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_4
+      rect:
+        serializedVersion: 2
+        x: 250.61664
+        y: 246.1278
+        width: 35.133392
+        height: 34.38687
+      alignment: 9
+      pivot: {x: 0.34550068, y: 0.60687935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_5
+      rect:
+        serializedVersion: 2
+        x: 16.230251
+        y: 155.25693
+        width: 82.66972
+        height: 68.01366
+      alignment: 9
+      pivot: {x: 0.52036, y: 0.21458994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_6
+      rect:
+        serializedVersion: 2
+        x: 107.41074
+        y: 155.3661
+        width: 82.66975
+        height: 67.81009
+      alignment: 9
+      pivot: {x: 0.5121283, y: 0.22221795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_7
+      rect:
+        serializedVersion: 2
+        x: 200.1635
+        y: 154.91188
+        width: 83.51289
+        height: 68.35106
+      alignment: 9
+      pivot: {x: 0.5019494, y: 0.23563068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_8
+      rect:
+        serializedVersion: 2
+        x: 16.197145
+        y: 83.09107
+        width: 82.71417
+        height: 67.714745
+      alignment: 9
+      pivot: {x: 0.50638986, y: 0.22659247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_9
+      rect:
+        serializedVersion: 2
+        x: 107.42859
+        y: 83.368774
+        width: 82.500015
+        height: 67.40222
+      alignment: 9
+      pivot: {x: 0.5059018, y: 0.23216896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_10
+      rect:
+        serializedVersion: 2
+        x: 200.20499
+        y: 83.19789
+        width: 82.8497
+        height: 67.40622
+      alignment: 9
+      pivot: {x: 0.5125003, y: 0.2260449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_11
+      rect:
+        serializedVersion: 2
+        x: 15.974478
+        y: 11.052778
+        width: 82.987785
+        height: 68.28768
+      alignment: 9
+      pivot: {x: 0.50740343, y: 0.23378585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kebbi_12
+      rect:
+        serializedVersion: 2
+        x: 109.2015
+        y: 11.231779
+        width: 82.6713
+        height: 67.51802
+      alignment: 9
+      pivot: {x: 0.5206977, y: 0.2288973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 102410277289984
+  assetBundleName: 
+  assetBundleVariant: 

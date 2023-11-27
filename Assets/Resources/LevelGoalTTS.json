@@ -1,0 +1,291 @@
+
+[
+     {
+          "ID" : 1,
+          "String_ID" : "Level01_01",
+          "Description" : "2018-12-31T16:00:00.000Z",
+          "CN"          : "使用 挖土方块，来帮助凯比把土挖起来吧！",
+          "TW"          : "使用 挖土方块，来帮助凯比把土挖起来吧！",
+          "EN"          : "Use the digging block to help Kebbi dig out the soil!",
+          "JP"          : "土掘りブロックを使って、ケビーの土を掘る手伝いをしよう！"
+     },
+     {
+          "ID" : 2,
+          "String_ID" : "Level01_02",
+          "Description" : "2019-01-01T16:00:00.000Z",
+          "CN"          : "咦？ 土里好像有什么，让我们把土挖开，拿起来看看是什么吧！",
+          "TW"          : "咦？ 土里好像有什么，让我们把土挖开，拿起来看看是什么吧！",
+          "EN"          : "Huh? It seems that we got something in the soil. Let's dig the soil and see what's insdie!",
+          "JP"          : "あれ？土の中に何かあるよ。土を掘り出して、何があるのか見てみよう！\n"
+     },
+     {
+          "ID" : 3,
+          "String_ID" : "Level01_03",
+          "Description" : "2019-01-02T16:00:00.000Z",
+          "CN"          : "凯比喜欢电池！这里好像还有电池，你可以告诉他该怎么拿到吗？",
+          "TW"          : "凯比喜欢电池！这里好像还有电池，你可以告诉他该怎么拿到吗？",
+          "EN"          : "Kebbi likes batteries! Looks like there's a battery here. Could you tell Kebbi how to get it?",
+          "JP"          : "ケビーは電池が好き。ここにはまだ電池があるみたい。彼にどうやって手に入れるか教えてくれる？\n"
+     },
+     {
+          "ID" : 4,
+          "String_ID" : "Level01_04",
+          "Description" : "2019-01-03T16:00:00.000Z",
+          "CN"          : "凯比感觉到土下藏着其他电池，让我们来数数要挖几次才能找到电池吧！",
+          "TW"          : "凯比感觉到土下藏着其他电池，让我们来数数要挖几次才能找到电池吧！",
+          "EN"          : "Kebbi feels that there is another battery under the ground. Let's count how many times we should dig to find out the battery!",
+          "JP"          : "ケビーが土の下に隠れている電池に気がついたよ。何回掘れば電池を見つけられるか一緒に数えてみよう！\n"
+     },
+     {
+          "ID" : 5,
+          "String_ID" : "Level02_01",
+          "Description" : "2019-01-31T16:00:00.000Z",
+          "CN"          : "你看，前面有只可爱的小狗狗，让我们往前一步去找牠试试看。",
+          "TW"          : "你看，前面有只可爱的小狗狗，让我们往前一步去找牠试试看。",
+          "EN"          : "Look, there's a cute little dog in the front. Let's try to approach it. ",
+          "JP"          : "見て、前に可愛い子犬がいるよ。前に行って一緒に見てみよう。"
+     },
+     {
+          "ID" : 6,
+          "String_ID" : "Level02_02",
+          "Description" : "2019-02-01T16:00:00.000Z",
+          "CN"          : "狗狗这次在离我们更远一点的地方，要走几步才能和牠在一起呢？",
+          "TW"          : "狗狗这次在离我们更远一点的地方，要走几步才能和牠在一起呢？",
+          "EN"          : "This time the dog is a bit farther from us. How many steps should we take to reach it?",
+          "JP"          : "子犬が今度は僕たちよりも更に遠いところにいるよ。何歩歩いたら彼のところまでたどり着けるかな？\n"
+     },
+     {
+          "ID" : 7,
+          "String_ID" : "Level02_03",
+          "Description" : "2019-02-02T16:00:00.000Z",
+          "CN"          : "这附近似乎藏着电池，请你告诉凯比该怎么做，把电池找出来吧！",
+          "TW"          : "这附近似乎藏着电池，请你告诉凯比该怎么做，把电池找出来吧！",
+          "EN"          : "Looks like there is still a battery hidden around. Please tell Kebbi what to do to find the battery!",
+          "JP"          : "この辺にはたくさん電池が隠れているよ。ケビーにどうするべきか教えてね。電池を探し出そう！\n"
+     },
+     {
+          "ID" : 8,
+          "String_ID" : "Level02_04",
+          "Description" : "2019-02-03T16:00:00.000Z",
+          "CN"          : "这附近似乎还有电池，请你再帮帮凯比，让他拿到电池好吗？",
+          "TW"          : "这附近似乎还有电池，请你再帮帮凯比，让他拿到电池好吗？",
+          "EN"          : "Looks like there is still a battery hidden around. Please help Kebbi again to get the battery.",
+          "JP"          : "ここら辺にはまだたくさん電池があるよ。もう一度カービを助けてあげて、彼に電池を取らせてあげよう。\n"
+     },
+     {
+          "ID" : 9,
+          "String_ID" : "Level03_01",
+          "Description" : "2019-02-28T16:00:00.000Z",
+          "CN"          : "你看天色好像阴阴的，是不是快下雨了呢？ 如果凯比淋到雨会坏掉的！使用 撑 伞 方块，让凯比先撑起伞吧！",
+          "TW"          : "你看天色好像阴阴的，是不是快下雨了呢？ 如果凯比淋到雨会坏掉的！使用 撑 伞 方块，让凯比先撑起伞吧！",
+          "EN"          : "See, the sky is overcast. Is it raining soon? Kebbi will be broken if Kebbi gets wet in the rain! Use the umbrella block to cover Kebbi first!",
+          "JP"          : "見て見て、空が暗くなってきたよ、雨が降るんじゃない？ケビーは雨に濡れると壊れてしまうよ。傘をさすブロックを使って、先にケビーに傘をさしてあげてね！"
+     },
+     {
+          "ID" : 10,
+          "String_ID" : "Level03_02",
+          "Description" : "2019-03-01T16:00:00.000Z",
+          "CN"          : "下雨了！你可以帮助凯比去找狗狗吗？记得不要让凯比淋到雨哦！",
+          "TW"          : "下雨了！你可以帮助凯比去找狗狗吗？记得不要让凯比淋到雨哦！",
+          "EN"          : "It's raining! Could you help Kebbi to find the dog? Don't forget that Kebbi can't get wet!",
+          "JP"          : "雨が降ってきた！ケビーと子犬を探しに行ってくれる？ケビーを雨に濡らさないようにしてね！\n"
+     },
+     {
+          "ID" : 11,
+          "String_ID" : "Level03_03",
+          "Description" : "2019-03-02T16:00:00.000Z",
+          "CN"          : "凯比感觉到这附近似乎有电池，请你帮帮他拿到电池好吗？记得別让他淋到雨了！",
+          "TW"          : "凯比感觉到这附近似乎有电池，请你帮帮他拿到电池好吗？记得別让他淋到雨了！",
+          "EN"          : "Kebbi feels that there seems to be a battery around. Could you help Kebbi to get the battery? Don't forget that Kebbi can't get wet!",
+          "JP"          : "ケビーがここら辺に電池があることを感じ取ったよ。ケビーと電池を取ってくれる？ケビーを雨にぬらさないでね！\n"
+     },
+     {
+          "ID" : 12,
+          "String_ID" : "Level03_04",
+          "Description" : "2019-03-03T16:00:00.000Z",
+          "CN"          : "在找狗狗的路上好像藏着电池，请你帮凯比拿到电池后再去找狗狗吧！要注意別让他淋雨哦！",
+          "TW"          : "在找狗狗的路上好像藏着电池，请你帮凯比拿到电池后再去找狗狗吧！要注意別让他淋雨哦！",
+          "EN"          : "There seems to be a battery hidden on the way to the dog. Please get the battery for Kebbi before heading to the dog;s location. Be careful not to let Kebbi get wet!",
+          "JP"          : "子犬を探していた場所に電池が隠れていたみたい。ケビーの電池を探すお手伝いのあとに、子犬を探しに行ってね！ケビーを雨に濡らさないように気をつけて！\n"
+     },
+     {
+          "ID" : 13,
+          "String_ID" : "Level04_01",
+          "Description" : "2019-03-31T16:00:00.000Z",
+          "CN"          : "你看， 从这个角度，可以更好的告诉凯比该往哪个方向走！现在请你告诉凯比要往前几步才能找到狗狗好吗？",
+          "TW"          : "你看， 从这个角度，可以更好的告诉凯比该往哪个方向走！现在请你告诉凯比要往前几步才能找到狗狗好吗？",
+          "EN"          : "You can tell Kebbi the direction better from this angle! Now could you tell Kebbi how many steps Kebbi should go forward to find the dog?",
+          "JP"          : "見て、ここからの角度だとにケビーにどっちに歩けばいいかもっと上手に伝えることができるよ。前に後何歩歩けば子犬を見つけられるか教えてあげてね。\n"
+     },
+     {
+          "ID" : 14,
+          "String_ID" : "Level04_02",
+          "Description" : "2019-04-01T16:00:00.000Z",
+          "CN"          : "这次试着告诉凯比，要往后走几步才能和狗狗会合吧！",
+          "TW"          : "这次试着告诉凯比，要往后走几步才能和狗狗会合吧！",
+          "EN"          : "This time, try to tell Kebbi how many steps Kebbi should go backward to meet the dog!",
+          "JP"          : "まずは練習！あと何歩後ろに歩けば子犬と会えるか、ケビーに教えてあげて！\n"
+     },
+     {
+          "ID" : 15,
+          "String_ID" : "Level04_03",
+          "Description" : "2019-04-02T16:00:00.000Z",
+          "CN"          : "狗狗这次跑到凯比的左边了，该往左走几步才能找到狗狗呢？",
+          "TW"          : "狗狗这次跑到凯比的左边了，该往左走几步才能找到狗狗呢？",
+          "EN"          : "The dog runs to Kebbi's left. How many steps Kebbi should go to the left to find the dog? ",
+          "JP"          : "今子犬がケビーの左側に走って行ったよ、後何歩左に歩けば子犬と出会えるかな？\n"
+     },
+     {
+          "ID" : 16,
+          "String_ID" : "Level04_04",
+          "Description" : "2019-04-03T16:00:00.000Z",
+          "CN"          : "狗狗这次跑到凯比的右边了，该往右走几步才能找到狗狗呢？",
+          "TW"          : "狗狗这次跑到凯比的右边了，该往右走几步才能找到狗狗呢？",
+          "EN"          : "The dog runs to Kebbi's right. How many steps Kebbi should go to the right to find the dog? ",
+          "JP"          : "今子犬がケビーの右側に走っていったよ、後何歩右に歩けば子犬と出会えるかな？"
+     },
+     {
+          "ID" : 17,
+          "String_ID" : "Level05_01",
+          "Description" : "2019-04-30T16:00:00.000Z",
+          "CN"          : "凯比在和狗狗玩躲猫猫，你可以帮助告诉凯比该怎么走，顺利找到狗狗吗？",
+          "TW"          : "凯比在和狗狗玩躲猫猫，你可以帮助告诉凯比该怎么走，顺利找到狗狗吗？",
+          "EN"          : "Kebbi and the dog are playing hide and seek. Could you tell Kebbi how to move to find the dog?",
+          "JP"          : "ケビーがワンちゃんと隠れんぼ（ゲーム）をしているよ。どこに行けばワンちゃんを見つけられるか、ケビーに教えてあげてね。\n"
+     },
+     {
+          "ID" : 18,
+          "String_ID" : "Level05_02",
+          "Description" : "2019-05-01T16:00:00.000Z",
+          "CN"          : "你看，那里有个狗骨头玩具，让我们来帮助凯比拿到玩具吧！",
+          "TW"          : "你看，那里有个狗骨头玩具，让我们来帮助凯比拿到玩具吧！",
+          "EN"          : "Look, there's a dog bone toy. Let's help Kebbi get the toy!",
+          "JP"          : "みて、あそこに番犬ガオガオ（オモチャ）があるよ。ケビーとおもちゃを取ってみよう！\n"
+     },
+     {
+          "ID" : 19,
+          "String_ID" : "Level05_03",
+          "Description" : "2019-05-02T16:00:00.000Z",
+          "CN"          : "隔着草丛，那里好像有个玩具，你可以帮助凯比拿到那个狗骨头吗？",
+          "TW"          : "隔着草丛，那里好像有个玩具，你可以帮助凯比拿到那个狗骨头吗？",
+          "EN"          : "Looks Like there is a toy over the grass. Could you help Kebbi to get that dog toy?",
+          "JP"          : "隣の草むらにオモチャがあるみたい。ケビーのためにあの犬の骨を取ってあげよう！\n"
+     },
+     {
+          "ID" : 20,
+          "String_ID" : "Level05_04",
+          "Description" : "2019-05-03T16:00:00.000Z",
+          "CN"          : "这里出现了更多的骨头玩具！让我们带着两个骨头玩具，再去找狗狗玩吧！",
+          "TW"          : "这里出现了更多的骨头玩具！让我们带着两个骨头玩具，再去找狗狗玩吧！",
+          "EN"          : "There are more bone toys! Let's bring all the bone toys to the dog!",
+          "JP"          : "ここにたくさんの番犬ガオガオが出てきたよ！全ての番犬ガオガオを持って、ワンちゃんを探しに行こう！\n"
+     },
+     {
+          "ID" : 21,
+          "String_ID" : "Level06_01",
+          "Description" : "2019-05-31T16:00:00.000Z",
+          "CN"          : "小朋友，请你仔细看看左边的图示，指向上方的是北边，顺时针分別为东边、南边和西边，他们被称为方位。现在请你配合图示，告诉凯比该往东边走几步找到狗狗吧！",
+          "TW"          : "小朋友，请你仔细看看左边的图示，指向上方的是北边，顺时针分別为东边、南边和西边，他们被称为方位。现在请你配合图示，告诉凯比该往东边走几步找到狗狗吧！",
+          "EN"          : "Hey dear, please take a closer look at the sign on the top left corner. The point above marks north, east, south and west clockwise. They are called directions. Now please follow the sign on the top left corner, and tell Kebbi how many steps to the east Kebbi should take to find the dog!",
+          "JP"          : "さて、画面左上端にあるアイコンをよく見える？上を指しているのが北側、時計回りに東、南と西、これを方位と言うよ。左上端にあるアイコンを合わせてもらって、東向きに後何歩歩けばワンちゃんを見つけられるか、ケビーに教えてあげよう！\n"
+     },
+     {
+          "ID" : 22,
+          "String_ID" : "Level06_02",
+          "Description" : "2019-06-01T16:00:00.000Z",
+          "CN"          : "顺便告诉你，那个蓝色圆圆的图示叫作罗盘，只要跟著罗盘的指示，就知道该往什么方位走了。现在请你告诉凯比，该往西边走几步才能找到狗狗好吗？",
+          "TW"          : "顺便告诉你，那个蓝色圆圆的图示叫作罗盘，只要跟著罗盘的指示，就知道该往什么方位走了。现在请你告诉凯比，该往西边走几步才能找到狗狗好吗？",
+          "EN"          : "By the way, the sign on the top left corner is a compass. You would know in which direction you should go as long as you follow the compass. Now, please tell Kebbi how many steps Kebbi should take to find the dog?",
+          "JP"          : "ちなみに、斜め左上にあるアイコンのことを羅盤と呼ぶよ。羅盤の指示に従えば、どの方角に歩けばいいかが分かるよ。今からケビーに西向きに後何歩歩けばワンちゃんを見つけられるか教えてあげよう！\n"
+     },
+     {
+          "ID" : 23,
+          "String_ID" : "Level06_03",
+          "Description" : "2019-06-02T16:00:00.000Z",
+          "CN"          : "小朋友，仔细看看左边那张图的罗盘，你还记得南边是哪个方向吗？请你帮帮凯比，往南走和狗狗会合吧！",
+          "TW"          : "小朋友，仔细看看左边那张图的罗盘，你还记得南边是哪个方向吗？请你帮帮凯比，往南走和狗狗会合吧！",
+          "EN"          : "Hey dear, please look at the compass carefully. Do you still remember where the south is? Please help Kebbi to go southward and meet the dog!",
+          "JP"          : "斜め左上にある羅盤をよく見てみて、南がどの方角かまだ覚えてる？ケビーを南向きに歩かせて、ワンちゃんと合流させてね。\n"
+     },
+     {
+          "ID" : 24,
+          "String_ID" : "Level06_04",
+          "Description" : "2019-06-03T16:00:00.000Z",
+          "CN"          : "小朋友，仔细看看左边那张图的罗盘，你还记得北边是哪个方向吗？请你帮帮凯比，往北走和狗狗会合吧！",
+          "TW"          : "小朋友，仔细看看左边那张图的罗盘，你还记得北边是哪个方向吗？请你帮帮凯比，往北走和狗狗会合吧！",
+          "EN"          : "Hey dear, please look at the compass carefully. Do you still remember where the nouth is? Please help Kebbi to go nouthward and meet the dog!",
+          "JP"          : "斜め左上にある羅盤をよく見てみて、北がどの方角かまだ覚えてる？ケビーを北向きに歩かせて、ワンちゃんと合流させてね！\n"
+     },
+     {
+          "ID" : 25,
+          "String_ID" : "Level07_01",
+          "Description" : "2019-06-30T16:00:00.000Z",
+          "CN"          : "仔细看看罗盘，这次北边换到了下方，那其他方位都在哪一边呢？请你帮助凯比，告诉他要往哪边走，才能拿着骨头玩具去找狗狗吧！",
+          "TW"          : "仔细看看罗盘，这次北边换到了下方，那其他方位都在哪一边呢？请你帮助凯比，告诉他要往哪边走，才能拿着骨头玩具去找狗狗吧！",
+          "EN"          : "Look at the compass carefully. Now the point beneath is north. Where are other directions? Please help Kebbi, and tell Kebbi which direction to go so that Kebbi can bring the bone toys to the dog! ",
+          "JP"          : "コンパスをよく見てみて、今度は北側が下向きに変わったよ。他の方角はどちら側に位置するかな？どの方角に歩けば、番犬ガオガオのオモチャを取れて、ワンちゃんを見つけられるか、ケビーに教えてあげてね。\n"
+     },
+     {
+          "ID" : 26,
+          "String_ID" : "Level07_02",
+          "Description" : "2019-07-01T16:00:00.000Z",
+          "CN"          : "仔细看看罗盘，先找出北边在哪里，就可以轻松找出其他方位了！请你帮助凯比直接去找狗狗玩耍吧！",
+          "TW"          : "仔细看看罗盘，先找出北边在哪里，就可以轻松找出其他方位了！请你帮助凯比直接去找狗狗玩耍吧！",
+          "EN"          : "Look at the compass carefully. Find the north first, and then you can locate other directions very easily! Please help Kebbi head to the dog's location directly!",
+          "JP"          : "コンパスをよく見てみて、先に北がどちら側にあるかを探せば、あとは簡単に他の方角も見つけることができるよ。ワンちゃんを見つけて、ケビーと一緒に遊ばせよう。\n"
+     },
+     {
+          "ID" : 27,
+          "String_ID" : "Level07_03",
+          "Description" : "2019-07-02T16:00:00.000Z",
+          "CN"          : "小朋友，请你仔细看看罗盘后告诉凯比，该怎么带着狗骨头玩具再去找狗狗玩耍好吗？",
+          "TW"          : "小朋友，请你仔细看看罗盘后告诉凯比，该怎么带着狗骨头玩具再去找狗狗玩耍好吗？",
+          "EN"          : "Hey dear, please look at the compass carefully and tell Kebbi how to find the bone toy before going to play with the dog.",
+          "JP"          : "コンパスをよく見た後、どうやって犬骨オモチャでワンちゃんと遊べばいいのか、ケビーに教えてあげてね！\n"
+     },
+     {
+          "ID" : 28,
+          "String_ID" : "Level07_04",
+          "Description" : "2019-07-03T16:00:00.000Z",
+          "CN"          : "小朋友，请你仔细看看罗盘后告诉凯比，该怎么带着狗骨头玩具再去找狗狗玩耍好吗？",
+          "TW"          : "小朋友，请你仔细看看罗盘后告诉凯比，该怎么带着狗骨头玩具再去找狗狗玩耍好吗？",
+          "EN"          : "Hey dear, please look at the compass carefully and tell Kebbi how to find the bone toy before going to play with the dog.",
+          "JP"          : "コンパスをよく見た後、どうやって犬骨オモチャでワンちゃんと遊べばいいのか、ケビーに教えてあげてね！\n"
+     },
+     {
+          "ID" : 29,
+          "String_ID" : "Level08_01",
+          "Description" : "2019-07-31T16:00:00.000Z",
+          "CN"          : "你看，那里有一块地看起来不太一样，底下是不是埋了什么呢？请你试着帮助凯比，把土里的东西挖出来看看吧！",
+          "TW"          : "你看，那里有一块地看起来不太一样，底下是不是埋了什么呢？请你试着帮助凯比，把土里的东西挖出来看看吧！",
+          "EN"          : "Look, the land over there looks a bit different. Is something buried underground? Please try to help Kebbi and dig out the object!",
+          "JP"          : "見てみて、あそこの地面だけ見た目が少し違うよ。下に何か埋まっているのかな？試しに、土の中のものを掘り出してみて！\n"
+     },
+     {
+          "ID" : 30,
+          "String_ID" : "Level08_02",
+          "Description" : "2019-08-01T16:00:00.000Z",
+          "CN"          : "狗狗喜欢吃肉，只要拿好肉肉，在跟狗狗会合后使用餵食方块，就可以把身上的肉肉餵给牠了，让我们来试试看吧！",
+          "TW"          : "狗狗喜欢吃肉，只要拿好肉肉，在跟狗狗会合后使用餵食方块，就可以把身上的肉肉餵给牠了，让我们来试试看吧！",
+          "EN"          : "Dogs love meat. Take a slice of meat, so you can feed the dog by using the feeding block when you meet the dog. Let's try! ",
+          "JP"          : "犬はお肉が大好き。お肉を持って、犬と合流した後餌やりブロックを使うだけで、手元にあるお肉を犬に食べさせてあげることができるよ。まずは一回やってみよう！\n"
+     },
+     {
+          "ID" : 31,
+          "String_ID" : "Level08_03",
+          "Description" : "2019-08-02T16:00:00.000Z",
+          "CN"          : "狗狗就在前方不远处，让我们一起带着肉去餵狗狗，让牠可以吃饱吧！",
+          "TW"          : "狗狗就在前方不远处，让我们一起带着肉去餵狗狗，让牠可以吃饱吧！",
+          "EN"          : "The dog is not far from us. Let's feed the dog with the meat, so it will not be hungry!",
+          "JP"          : "ワンちゃんが目の前にいるよ。一緒にお肉を持ってワンちゃんに食べさせて、お腹いっぱいにしてあげよう！\n"
+     },
+     {
+          "ID" : 32,
+          "String_ID" : "Level08_04",
+          "Description" : "2019-08-03T16:00:00.000Z",
+          "CN"          : "凯比又找不到狗狗了！请你帮助凯比，拿到骨头玩具和食物后再去找狗狗并餵食牠吧！",
+          "TW"          : "凯比又找不到狗狗了！请你帮助凯比，拿到骨头玩具和食物后再去找狗狗并餵食牠吧！",
+          "EN"          : "Kebbi cannot find the dog again! Please help Kebbi. Go finding the dog and feed it after getting the bone toy and food!",
+          "JP"          : "ケビーが又ワンちゃんを見つけられなくなってしまった！ケビーの代わりに、番犬ガオガオ（オモチャ）と、もう一度ワンちゃんを見つけて、餌をあげよう！\n"
+     }
+]

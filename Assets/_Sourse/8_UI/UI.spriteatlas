@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4655d8b55b5944f5ca7f8de07d80061d, type: 3}
+    - {fileID: 102900000, guid: 51c5eb7de4ef04358be91faf125c81f6, type: 3}
+    - {fileID: 102900000, guid: 3f119db164626b942b7453b95637c174, type: 3}
+    - {fileID: 102900000, guid: 6a8c7afe3d24d44f5b44d072c3000670, type: 3}
+    - {fileID: 102900000, guid: d1f187f8eceab2e45a37f29b3427e6bc, type: 3}
+    - {fileID: 102900000, guid: ccb842712a7c24689adf245cd423dc30, type: 3}
+    - {fileID: 102900000, guid: f5aab1f439f4d43eab04952311f55885, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dc31d0506bafc894b9f4154cca7b31b2, type: 3}
+  - {fileID: 21300000, guid: 733146117887366428af11cd983d7c5f, type: 3}
+  - {fileID: 21300000, guid: 052f469185fb7459f81be64f8802037e, type: 3}
+  - {fileID: 21300000, guid: 857c7ba1ebb8c49038ee4349ba454c54, type: 3}
+  - {fileID: 21300000, guid: 583ce2d1a4c68401e9cb8b9df325a0fa, type: 3}
+  - {fileID: 21300000, guid: 1afaf33296e7f4a79b577fb3fb71bcaf, type: 3}
+  - {fileID: 21300000, guid: 7ce34f421ef43834795f992b4098f6a5, type: 3}
+  - {fileID: 21300000, guid: d2da4d7297a7756409721be3bd5c1fd9, type: 3}
+  - {fileID: 21300000, guid: bfdce913b5d420e4fb6e4c620c7579a9, type: 3}
+  - {fileID: 21300000, guid: ce00d5839cfb8b347b9de25023810556, type: 3}
+  - {fileID: 21300000, guid: c5665ad392e0f4688b3f6a045552aa8f, type: 3}
+  - {fileID: 21300000, guid: a7ff61f393fc543c9892d3c4ea5def0a, type: 3}
+  - {fileID: 21300000, guid: a3621df359152454a921748609cf5320, type: 3}
+  - {fileID: 21300000, guid: 805d00544c4da4a079b084f98f063513, type: 3}
+  - {fileID: 21300000, guid: 9afa5754553d147d8b07a0b7e682970b, type: 3}
+  - {fileID: 21300000, guid: 9ba73874baf84ad48a121a101690fe97, type: 3}
+  - {fileID: 21300000, guid: e7b7fdc4e96d548cd8dd285f390ad866, type: 3}
+  - {fileID: 21300000, guid: 382debf4ea44a498e9f5e9bfd43eb33b, type: 3}
+  - {fileID: 21300000, guid: ba8104b5df8d5da4eb529f94d41764a5, type: 3}
+  - {fileID: 21300000, guid: a1d59ce511b18e64e8810f5cdfe24c4c, type: 3}
+  - {fileID: 21300000, guid: 5d51e40657a361049aa9fe437f015126, type: 3}
+  - {fileID: 21300000, guid: 8ec7b686f0b19424a89c18a827c40727, type: 3}
+  - {fileID: 21300000, guid: a86381d6ede2b88448ba1b1c6ec3765a, type: 3}
+  - {fileID: 21300000, guid: cd981e173e882410e9b8039547c0f898, type: 3}
+  - {fileID: 21300000, guid: cee3a80891d31704da798527e572560f, type: 3}
+  - {fileID: 21300000, guid: a7cc6d08940cd214494e7f043fa64708, type: 3}
+  - {fileID: 21300000, guid: f0ef93d81f3874f2b91cdaa60f24cbf0, type: 3}
+  - {fileID: 21300000, guid: e70d78d851979964e98172ae5e996894, type: 3}
+  - {fileID: 21300000, guid: 2b69d6f834c7949c79e1f86cb492cfbf, type: 3}
+  - {fileID: 21300000, guid: 5d7865098836248c18e7c97cc2903cb7, type: 3}
+  - {fileID: 21300000, guid: 117c8c49a993343c9b2fee3a9b557719, type: 3}
+  - {fileID: 21300000, guid: 0b096169f0acba14e8cc3ea8c45788ce, type: 3}
+  - {fileID: 21300000, guid: 113f609931adb3a4088f6aa8e9c88928, type: 3}
+  - {fileID: 21300000, guid: ec3c77a93dad59047b9731d573f8455a, type: 3}
+  - {fileID: 21300000, guid: 44caeac921e57403fb15fc0b93f75e08, type: 3}
+  - {fileID: 21300000, guid: 7827eec9903cdb94997f9ab4e290324b, type: 3}
+  - {fileID: 21300000, guid: c63836f901fa64871a4efac3f6ad1c49, type: 3}
+  - {fileID: 21300000, guid: bf59600b4ffd740d485b28d86ef26e70, type: 3}
+  - {fileID: 21300000, guid: 0b7f8d1b2ed4d1544baf7cb79607897d, type: 3}
+  - {fileID: 21300000, guid: 4c5a105b497d54cea8e1cab098f4fba9, type: 3}
+  - {fileID: 21300000, guid: 3110bb5be787947ac8475db7fd1695a4, type: 3}
+  - {fileID: 21300000, guid: 66a70f6b56cc7104697a23cee9c8a634, type: 3}
+  - {fileID: 21300000, guid: 40ae79abb8b084f7da60df236940406b, type: 3}
+  - {fileID: 21300000, guid: be97edcbae9644848b0939f2a1fa6dc4, type: 3}
+  - {fileID: 21300000, guid: f8329afb0fd520544a7b131d96b82e2d, type: 3}
+  - {fileID: 21300000, guid: 1c5af7ac5ce1546e191556426502d733, type: 3}
+  - {fileID: 21300000, guid: ac5f410d5c1369043901593f6e847bd9, type: 3}
+  - {fileID: 21300000, guid: 13d3399d380f842d7afa755ce5cc5789, type: 3}
+  - {fileID: 21300000, guid: 157bb0bdce478434ca75280ebf717c3b, type: 3}
+  - {fileID: 21300000, guid: 588395ed18b99452cb729751ab0908b0, type: 3}
+  - {fileID: 21300000, guid: 84c376fd0bb1cd442b4d357b8b86268f, type: 3}
+  - {fileID: 21300000, guid: d92a870ee00b3084784c6138810d1102, type: 3}
+  - {fileID: 21300000, guid: 6952ccae04e53404aaa809822992c3e0, type: 3}
+  - {fileID: 21300000, guid: 7757380f832003a44817272a1565c3e8, type: 3}
+  - {fileID: 21300000, guid: e009ee8fadfd1444092138e1535ffc17, type: 3}
+  - {fileID: 21300000, guid: d50b94bf72ee3c844bf783b5ea964f3b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GoalScene_BigSquare
+  - Pause_LevelSelect
+  - Tutorial_Skip
+  - ToturialV2_L
+  - Play
+  - MainMenu_BG
+  - GoalScene_Check
+  - Toturial_ChangePagePoint
+  - GameGoalContent_06
+  - Pause_BackToGame
+  - Toturial_L
+  - Tutorial_Mssk4
+  - Edit
+  - MainMenu_Quit
+  - Tutorial_Mask2
+  - GameGoalContent_13
+  - ToturialV2_R
+  - Tutorial_Mask1
+  - Pause_PopUp
+  - GameGoalContent_02
+  - GameWarning_02
+  - MainMenu_Tutorial
+  - GameGoalContent_07
+  - Bar_Long
+  - Toturial_ChangePage
+  - GameGoalContent_08
+  - GameScene_PauseButton
+  - GameGoalContent_10
+  - SimpleClose
+  - Toturial_R
+  - Tutorial_Mask3
+  - GameGoalContent_01
+  - GameGoalContent_12
+  - GameGoalContent_14
+  - GameWarning_01_OK
+  - Pause_Tutorial
+  - Tutorial_Back
+  - Cube_kebbi
+  - GoalScene_X
+  - Bar_LongPoint
+  - MainMenu_GameTitle
+  - GoalScene_FailCross
+  - GameWarning_01
+  - MainMenu_Description
+  - Pause_Goal
+  - Teach_Hand
+  - GameGoalContent_09
+  - BarPause
+  - GameGoalContent_05
+  - Tutorial_Mask5
+  - GameGoalContent_15
+  - GoalScene_Out
+  - GameGoalContent_03
+  - GameGoalContent_11
+  - GameGoal_ChangePagePoint
+  - GameGoalContent_04
+  m_Tag: UI
+  m_IsVariant: 0

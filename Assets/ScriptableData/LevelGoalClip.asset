@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a11a9e6a7d38756469d8672b6e986c78, type: 3}
+  m_Name: LevelGoalClip
+  m_EditorClassIdentifier: 
+  Key: null
+  pageGif:
+  - {fileID: 95758738613551776, guid: 58262bfd1daed664a8fae5a126be064c, type: 2}
+  - {fileID: 95035348266198542, guid: 53da975aa33d61d41b26305cad17da7a, type: 2}
+  - {fileID: 95035348266198542, guid: caec05c627e5466449722b0fe9c0bbce, type: 2}
+  - {fileID: 95710877232257070, guid: 1422884b065e60144911236fff39be2f, type: 2}
+  - {fileID: 95710877232257070, guid: 47106d64ce94d2948ab6e676e9609428, type: 2}
+  - {fileID: 95710877232257070, guid: 617fff2ae1ad71b4ea9ecb10730f92cf, type: 2}
+  - {fileID: 95176545926478230, guid: 95adc73d7aaef7847b0c9e299ab4327c, type: 2}
+  - {fileID: 95710877232257070, guid: 4b000708e1daf2649907dacc5050539a, type: 2}
+  - {fileID: 95957979981675674, guid: 8e9b629d14e7db94ca40f19a0b12a742, type: 2}
+  - {fileID: 95447585904322378, guid: 77eb4cf6007d124439eef75ee5454b46, type: 2}
+  - {fileID: 95447585904322378, guid: 125c68c1b5156994eaeac42519324098, type: 2}
+  - {fileID: 95447585904322378, guid: 979ae1f415bd7a54fabb92d53640d72c, type: 2}
+  - {fileID: 95569542480727660, guid: f8ec309aaea15b943a0efdc712715d6d, type: 2}
+  - {fileID: 95569542480727660, guid: 9fc63d5b26e3e7c44aaaa14b539715b8, type: 2}
+  - {fileID: 95569542480727660, guid: 4cd21e99e40695e4eac5d59629628257, type: 2}
+  - {fileID: 95854533434970348, guid: 877e848bec60b1840923b03b6780bb6e, type: 2}
+  - {fileID: 95569542480727660, guid: 928a28220fb8eaf46b14352cc5c58558, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  - {fileID: 95569542480727660, guid: 053258efa6a2a8f43b339c3922a45282, type: 2}
+  pageTTS:
+  - Level01_01
+  - Level01_02
+  - Level01_03
+  - Level02_01
+  - Level02_02
+  - Level02_03
+  - Level03_01
+  - Level03_02
+  - Level03_03
+  - Level04_01
+  - Level04_02
+  - Level04_03
+  - Level05_01
+  - Level05_02
+  - Level05_03
+  - Level06_01
+  - Level06_02
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03
+  - Level06_03

@@ -1,0 +1,75 @@
+
+[
+     {
+          "ID" : 1,
+          "String_ID" : "HandtoHandTutorial_01",
+          "Description" : "引言",
+          "CN"          : "只有我的话会不知道该怎么完成任务，所以要拜托你告诉我该做些什么才好！接下来要教教你，该怎么把指示传达给我，请你一 定 要注意听哦！",
+          "TW"          : "只有我的话会不知道该怎么完成任务，所以要拜托你告诉我该做些什么才好！接下来要教教你，该怎么把指示传达给我，请你一 定 要注意听哦！",
+          "EN"          : "I can't complete missions alone, we need to work together. Please help me out! I'm gonna show you how to give orders to me, listen carefully!",
+          "JP"          : "私一人だけだと、どうやって任務を完成させたらいいか分からないから、どうしたらいいか教えてね。これから私への指示の送り方を教えるよ、しっかり聞いてね！"
+     },
+     {
+          "ID" : 2,
+          "String_ID" : "HandtoHandTutorial_02",
+          "Description" : "挖土方塊",
+          "CN"          : "这里有一个方块，他可以让我使出  挖土  的动作！",
+          "TW"          : "这里有一个方块，他可以让我使出  挖土  的动作！",
+          "EN"          : "Here's a block. Use it and I will dig.",
+          "JP"          : "ここにブロックが一つあります、これで私に土を掘る動作をさせることができますよ。"
+     },
+     {
+          "ID" : 3,
+          "String_ID" : "HandtoHandTutorial_03",
+          "Description" : "拖曳方塊",
+          "CN"          : "我需要你按住方块，然后拖曳到上面的框框放开，确定方块有连接在一起！现在请你把一个挖土方块到编辑框可以吗？",
+          "TW"          : "我需要你按住方块，然后拖曳到上面的框框放开，确定方块有连接在一起！现在请你把一个挖土方块到编辑框可以吗？",
+          "EN"          : "I need you to press and hold the block, then drag it to the frame above, leave it there to make sure the blocks are connected. Now, could you move a digging block to that frame?",
+          "JP"          : "ブロックを押しながら、上にあるフレームまで引っ張り、離し、ブロックが繋がったことを確認してください。今から一つブロックを掘ってもらい、そのまま編集フレームに入っていただきますか？"
+     },
+     {
+          "ID" : 4,
+          "String_ID" : "HandtoHandTutorial_04",
+          "Description" : "播放鍵",
+          "CN"          : "把连接好的指令传达给我，只要按下这个播放键就可以啦！是不是很简单呢？",
+          "TW"          : "把连接好的指令传达给我，只要按下这个播放键就可以啦！是不是很简单呢？",
+          "EN"          : "Send me the command of connected blocks by pressing this play button! Isn't it simple?",
+          "JP"          : "繋がった指示を私に伝え、再生ボタンを押すだけと完了です！簡単でしょ？"
+     },
+     {
+          "ID" : 5,
+          "String_ID" : "HandtoHandTutorial_05",
+          "Description" : "中止鍵",
+          "CN"          : "按下播放后，原本的按钮变得不一样了！如果在执行任务时发现传达给我的指令不对，随时可以按下这个按键重来，现在请你按按看吧！",
+          "TW"          : "按下播放后，原本的按钮变得不一样了！如果在执行任务时发现传达给我的指令不对，随时可以按下这个按键重来，现在请你按按看吧！",
+          "EN"          : "After pressing the play button, it would turn into the pause button. If I do something wrong, you can press the pause button to redo the command anytime. Please try and press it now! ",
+          "JP"          : "再生をクリックした後、元々のボタンが違う形に変わるよ！任務を行なっている時に、送った指示が間違いだと気づいたら、いつでもこのボタンを押して初めからやり直すことができるよ。今試しに押してみてね。"
+     },
+     {
+          "ID" : 6,
+          "String_ID" : "HandtoHandTutorial_06",
+          "Description" : "遊戲暫停",
+          "CN"          : "当你不想玩或忘记任务目标时，按下这个按钮可以结束或再看一次目标！",
+          "TW"          : "当你不想玩或忘记任务目标时，按下这个按钮可以结束或再看一次目标！",
+          "EN"          : "When you don't feel like playing or you want to check the level goal, just press pause!",
+          "JP"          : "遊びたくない時、又はミッション目標をもう一度確認したい時、ゲーム一時停止を押してね。"
+     },
+     {
+          "ID" : 7,
+          "String_ID" : "HandtoHandTutorial_07",
+          "Description" : "暫停介面",
+          "CN"          : "在这里还可以回到关卡选单，重新选择想要挑战的任务哦！",
+          "TW"          : "在这里还可以回到关卡选单，重新选择想要挑战的任务哦！",
+          "EN"          : "You can also return to the level menu and reselect the mission you want to take!",
+          "JP"          : "ここでレベルメニューに戻ることができ、もう一度挑戦したい任務を選ぶことができるよ。"
+     },
+     {
+          "ID" : 8,
+          "String_ID" : "HandtoHandTutorial_08",
+          "Description" : "結束",
+          "CN"          : "听到这里，你一定已经想赶快开始跟我一起执行任务了，在游戏首页随时可以再看一次教学，让我们开始在城市里的大冒险吧！",
+          "TW"          : "听到这里，你一定已经想赶快开始跟我一起执行任务了，在游戏首页随时可以再看一次教学，让我们开始在城市里的大冒险吧！",
+          "EN"          : "How exiting, right? You must want to start the missions now. You can check the user guide again at the homepage anytime. Let's take the challenges and finish those interesting programming missions! ",
+          "JP"          : "ここまで聞いたら、きっと君も早く私と任務をしたいと思ったでしょう？ホーム画面でいつでも、もう一度見本を見ることができるよ。私たちに早く面白いプログラミングの任務がしたいなあ！"
+     }
+]

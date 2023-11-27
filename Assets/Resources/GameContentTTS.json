@@ -1,0 +1,48 @@
+
+[
+     {
+          "ID" : 1,
+          "String_ID" : "GameTitle_01",
+          "Description" : "在標題畫面說的",
+          "CN"          : "帮助我一起完成任务吧！",
+          "TW"          : "帮助我一起完成任务吧！",
+          "EN"          : "Let's do the missions together! / Help me complete the missions!",
+          "JP"          : "一緒に任務を完成させる手助けをしてね。\n"
+     },
+     {
+          "ID" : 2,
+          "String_ID" : "GameWarning_01",
+          "Description" : "沒放方塊就按開始提醒",
+          "CN"          : "要先拖曳方块到框框里再按下开始按键，我才会知道要做什么哦！",
+          "TW"          : "要先拖曳方块到框框里再按下开始按键，我才会知道要做什么哦！",
+          "EN"          : "Drag the block to the frame first, then press the play button so I would know what I need to do.",
+          "JP"          : "まず、ブロックをフレームまで運び、スタートボタンを押してね。"
+     },
+     {
+          "ID" : 3,
+          "String_ID" : "GameOver_01",
+          "Description" : "結算畫面成功",
+          "CN"          : "任务，大 成 功！",
+          "TW"          : "任务，大 成 功！",
+          "EN"          : "Mission completed!",
+          "JP"          : "任務成功！"
+     },
+     {
+          "ID" : 4,
+          "String_ID" : "GameOver_02",
+          "Description" : "結算畫面失敗",
+          "CN"          : "任务，失 败 ，要不要再试一次，仔细看看任务目标呢？",
+          "TW"          : "任务，失 败 ，要不要再试一次，仔细看看任务目标呢？",
+          "EN"          : "Mission failed. Would you like to try again? Try to take a closer look at the goal.",
+          "JP"          : "任務失敗。もう一度チャレンジして、任務目標を見てみよう！"
+     },
+     {
+          "ID" : 5,
+          "String_ID" : "FallWarning_01",
+          "Description" : "防摔預警",
+          "CN"          : "出任务的时候 我会不断移动，请多加注意我的周遭，让我可以安心又安全的活动哦！",
+          "TW"          : "出任务的时候 我会不断移动，请多加注意我的周遭，让我可以安心又安全的活动哦！",
+          "EN"          : "I'll move around when doing the commands. Please pay close attention to the surrounding environment, so I can rest assured and move safely!",
+          "JP"          : "私の任務中は、周りの安全に注意して見ていてね！"
+     }
+]

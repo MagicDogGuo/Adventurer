@@ -1,0 +1,309 @@
+
+[
+     {
+          "ID" : 1,
+          "String_ID" : "GameWarning_01",
+          "Description" : "沒放方塊就按開始提醒",
+          "CN"          : "要先拖曳方块到框框里再按下开始按键，我才会知道要做什么哦！",
+          "TW"          : "要先拖曳方塊到框框裡再按下開始按鍵，我才會知道要做什麼哦！",
+          "EN"          : "I would know what I should do after you drag the block to the frame and press play!",
+          "JP"          : "先にブロックをフレームまで運んでから、スタートボタンを押してください。\n"
+     },
+     {
+          "ID" : 2,
+          "String_ID" : "GameGoalContent_01",
+          "Description" : "挖土方塊",
+          "CN"          : "挖土！",
+          "TW"          : "挖土！",
+          "EN"          : "Dig!",
+          "JP"          : "土を掘って！"
+     },
+     {
+          "ID" : 3,
+          "String_ID" : "GameGoalContent_02",
+          "Description" : "拿取方塊",
+          "CN"          : "把东西拿起来！",
+          "TW"          : "把東西拿起來！",
+          "EN"          : "Take it!",
+          "JP"          : "持ち上げて！"
+     },
+     {
+          "ID" : 4,
+          "String_ID" : "GameGoalContent_03",
+          "Description" : "前進方塊（右）",
+          "CN"          : "向前走吧！",
+          "TW"          : "向前走吧！",
+          "EN"          : "Go forward!",
+          "JP"          : "前に進みましょう！"
+     },
+     {
+          "ID" : 5,
+          "String_ID" : "GameGoalContent_04",
+          "Description" : "撐傘方塊",
+          "CN"          : "撑伞別淋雨！",
+          "TW"          : "撐傘別淋雨！",
+          "EN"          : "Put up the umbrella and don't get wet!",
+          "JP"          : "雨に濡れないように、傘をさして！"
+     },
+     {
+          "ID" : 6,
+          "String_ID" : "GameGoalContent_05",
+          "Description" : "向後走方塊（左）",
+          "CN"          : "向我的后面走！",
+          "TW"          : "向我的後面走！",
+          "EN"          : "Go toward my back!",
+          "JP"          : "私の後ろを歩いて！"
+     },
+     {
+          "ID" : 7,
+          "String_ID" : "GameGoalContent_06",
+          "Description" : "向右走方塊（下）",
+          "CN"          : "向我的右边走！",
+          "TW"          : "向我的右邊走！",
+          "EN"          : "Go toward my right!",
+          "JP"          : "私の右側を歩いて！"
+     },
+     {
+          "ID" : 8,
+          "String_ID" : "GameGoalContent_07",
+          "Description" : "向左走方塊（上）",
+          "CN"          : "向我的左边走！",
+          "TW"          : "向我的左邊走！",
+          "EN"          : "Go toward my left!",
+          "JP"          : "私の左側を歩いて！"
+     },
+     {
+          "ID" : 9,
+          "String_ID" : "GameGoalContent_08",
+          "Description" : "向東走方塊",
+          "CN"          : "向东走！",
+          "TW"          : "向東走！",
+          "EN"          : "Go eastward!",
+          "JP"          : "進んで！"
+     },
+     {
+          "ID" : 10,
+          "String_ID" : "GameGoalContent_09",
+          "Description" : "向西走方塊",
+          "CN"          : "向西走！",
+          "TW"          : "向西走！",
+          "EN"          : "Go westward!",
+          "JP"          : "進んで！"
+     },
+     {
+          "ID" : 11,
+          "String_ID" : "GameGoalContent_10",
+          "Description" : "向南走方塊",
+          "CN"          : "向南走！",
+          "TW"          : "向南走！",
+          "EN"          : "Go southward!",
+          "JP"          : "進んで！"
+     },
+     {
+          "ID" : 12,
+          "String_ID" : "GameGoalContent_11",
+          "Description" : "向北走方塊",
+          "CN"          : "向北走！",
+          "TW"          : "向北走！",
+          "EN"          : "Go northward!",
+          "JP"          : "進んで！"
+     },
+     {
+          "ID" : 13,
+          "String_ID" : "GameGoalContent_12",
+          "Description" : "餵食方塊",
+          "CN"          : "捡起食物，餵饱狗狗！",
+          "TW"          : "撿起食物，餵飽狗狗！",
+          "EN"          : "Pick up the food and feed the dog!",
+          "JP"          : "食べ物を拾って、犬に食べさせて！"
+     },
+     {
+          "ID" : 14,
+          "String_ID" : "GameGoalContent_13",
+          "Description" : "撿電池",
+          "CN"          : "把电池捡起来！",
+          "TW"          : "把電池撿起來！",
+          "EN"          : "Pick up the battery!",
+          "JP"          : "電池を拾って！"
+     },
+     {
+          "ID" : 15,
+          "String_ID" : "GameGoalContent_14",
+          "Description" : "撿玩具",
+          "CN"          : "捡起骨头玩具！",
+          "TW"          : "撿起骨頭玩具！",
+          "EN"          : "Pick up the bone toy!",
+          "JP"          : "骨のおもちゃを拾って！"
+     },
+     {
+          "ID" : 16,
+          "String_ID" : "GameGoalContent_15",
+          "Description" : "找狗",
+          "CN"          : "去找狗狗吧！",
+          "TW"          : "去找狗狗吧！",
+          "EN"          : "Go finding the dog!",
+          "JP"          : "犬を探しに行って！"
+     },
+     {
+          "ID" : 17,
+          "String_ID" : "GameGoal_Title",
+          "Description" : "關卡目標介面標題",
+          "CN"          : "任务目标",
+          "TW"          : "任務目標",
+          "EN"          : "Mission Goal",
+          "JP"          : "ミッション目標\n"
+     },
+     {
+          "ID" : 18,
+          "String_ID" : "GameFailContent_01",
+          "Description" : "沒挖對",
+          "CN"          : "该挖几次土呢？",
+          "TW"          : "該挖幾次土呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 19,
+          "String_ID" : "GameFailContent_02",
+          "Description" : "沒拿到或沒拿",
+          "CN"          : "凯比没有拿到该拿的东西！",
+          "TW"          : "凱比沒有拿到該拿的東西！",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 20,
+          "String_ID" : "GameFailContent_03",
+          "Description" : "前進不對（方塊右）",
+          "CN"          : "该往前走几步才对呢？",
+          "TW"          : "該往前走幾步才對呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 21,
+          "String_ID" : "GameFailContent_04",
+          "Description" : "沒撐傘",
+          "CN"          : "糟糕了，凯比淋到雨坏掉啦！",
+          "TW"          : "糟糕了，凱比淋到雨壞掉啦！",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 22,
+          "String_ID" : "GameFailContent_05",
+          "Description" : "後退不對（方塊左）",
+          "CN"          : "到底该往后走几步呢？",
+          "TW"          : "到底該往後走幾步呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 23,
+          "String_ID" : "GameFailContent_06",
+          "Description" : "向右不對（方塊下）",
+          "CN"          : "到底该往右走几步呢？",
+          "TW"          : "到底該往右走幾步呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 24,
+          "String_ID" : "GameFailContent_07",
+          "Description" : "向左不對（方塊上）",
+          "CN"          : "到底该往左走几步呢？",
+          "TW"          : "到底該往左走幾步呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 25,
+          "String_ID" : "GameFailContent_08",
+          "Description" : "向東不對",
+          "CN"          : "该往东边走几步呢？",
+          "TW"          : "該往東邊走幾步呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 26,
+          "String_ID" : "GameFailContent_09",
+          "Description" : "向西不對",
+          "CN"          : "该往西边走几步呢？",
+          "TW"          : "該往西邊走幾步呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 27,
+          "String_ID" : "GameFailContent_10",
+          "Description" : "向南不對",
+          "CN"          : "该往南边走几步呢？",
+          "TW"          : "該往南邊走幾步呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 28,
+          "String_ID" : "GameFailContent_11",
+          "Description" : "向北不對",
+          "CN"          : "该往北边走几步呢？",
+          "TW"          : "該往北邊走幾步呢？",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 29,
+          "String_ID" : "GameFailContent_12",
+          "Description" : "沒餵到",
+          "CN"          : "狗狗还是很饿呢！",
+          "TW"          : "狗狗還是很餓呢！",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 30,
+          "String_ID" : "GameFailContent_13",
+          "Description" : "沒撿到電池",
+          "CN"          : "凯比想要电池！",
+          "TW"          : "凱比想要電池！",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 31,
+          "String_ID" : "GameFailContent_14",
+          "Description" : "沒撿到玩具",
+          "CN"          : "把地上的玩具捡起来吧！",
+          "TW"          : "把地上的玩具撿起來吧！",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 32,
+          "String_ID" : "GameFailContent_15",
+          "Description" : "沒找狗",
+          "CN"          : "狗狗一个人很寂寞哦！",
+          "TW"          : "狗狗一個人很寂寞哦！",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     },
+     {
+          "ID" : 33,
+          "String_ID" : "GameWarning_02",
+          "Description" : "編輯欄中方塊達到上限",
+          "CN"          : "太多指令了！这样凯比会记不住的，如果还想放更多方块，可以先删掉旧的方块哦！",
+          "TW"          : "太多指令了！這樣凱比會記不住的，如果還想放更多方塊，可以先刪掉舊的方塊哦！",
+          "EN"          : "Kebbi can't follow too many instructions at same time! If you want to add more blocks, you can remove the old blocks first!",
+          "JP"          : "指令が多すぎるよ！これじゃケビーが覚えられない！もっと多くのブロックを置きたいなら以前のブロックを先に消去してね！"
+     },
+     {
+          "ID" : 34,
+          "String_ID" : "GameFail_Title",
+          "Description" : "失敗提示標題",
+          "CN"          : "提示",
+          "TW"          : "提示",
+          "EN"          : "/n",
+          "JP"          : "/n"
+     }
+]

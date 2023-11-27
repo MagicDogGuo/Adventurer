@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: Kebbi_StandBy
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: BoneHead
+    localPosition: {x: 0.003231287, y: -0.025372323, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.55893207, w: 0.82921344}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BoneHead/Head
+    localPosition: {x: 0.07801036, y: -0.000000007450581, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BoneRhand
+    localPosition: {x: -0.16615066, y: -0.113320656, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.43452016, w: 0.9006621}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BoneRhand/Rhand
+    localPosition: {x: 0.08797467, y: -0.0000000037252903, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BoneLhand
+    localPosition: {x: 0.118379936, y: -0.08974078, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.4109813, w: 0.9116438}
+    localScale: {x: 1.0000004, y: 1.0000004, z: 1}
+  - path: BoneLhand/Lhand
+    localPosition: {x: 0.08598585, y: 0.000000007450578, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
