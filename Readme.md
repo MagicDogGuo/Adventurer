@@ -1,5 +1,3 @@
-# 英文
-
 # **Project Name: Adventurer**
 
 **`Unity version: 2019.4.3 or higher`**
