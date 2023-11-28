@@ -52,29 +52,29 @@ To open the project using Unity, navigate to **`Assets/_Scenes/Game/TitleState`*
 
 ## **4. _Script Folder Description**
 
-BlockSystem: Programming logic and functionality for the game's block objects.
+`BlockSystem`: Programming logic and functionality for the game's block objects.
 
-DatabaseDownloadTool: Downloads game data from Google Sheets using the Google App script API.
+`DatabaseDownloadTool`: Downloads game data from Google Sheets using the Google App script API.
 
-LevelData: Reads and saves game level completion data.
+`LevelData`: Reads and saves game level completion data.
 
-MainGameState: Uses the State Pattern to switch the main game state.
+`MainGameState`: Uses the State Pattern to switch the main game state.
 
-Manager: Various managers within the game.
+`Manager`: Various managers within the game.
 
-MapTool: A UnityEditor tool developed for artists to design game maps.
+`MapTool`: A UnityEditor tool developed for artists to design game maps.
 
-ResultSystem: Determines and records game outcomes.
+`ResultSystem`: Determines and records game outcomes.
 
-SceneObject: Logic for game characters and in-game objects.
+`SceneObject`: Logic for game characters and in-game objects.
 
-SceneState: Uses the State Pattern to switch between different Unity scenes.
+`SceneState`: Uses the State Pattern to switch between different Unity scenes.
 
-Table: Reads JSON files with different content.
+`Table`: Reads JSON files with different content.
 
-Test: Programs for testing.
+`Test`: Programs for testing.
 
-UI: Programs related to UI logic.
+`UI`: Programs related to UI logic.
 
 ## **5. Main Structure**
 
