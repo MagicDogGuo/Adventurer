@@ -84,7 +84,7 @@ The overarching structure of the game is as follows:
 
 These projects are grounded in the core OOP principles of encapsulation, inheritance, and polymorphism, enhanced by the implementation of design patterns such as Singleton, State, and Observer.
 
-### **MonoSingleton<T> and SingletonLoader**
+### **5.1. MonoSingleton<T> and SingletonLoader**
 
 The **`Assets/_Script/MonoSingleton`** and **`Assets/_Script/SingletonLoader`** scripts showcase a common implementation of the Singleton Pattern, ensuring a class has only one instance and providing a global access point.
 
@@ -114,7 +114,7 @@ If multiple instances exist, it immediately destroys the extra instances to ensu
 
 It also takes responsibility for adding a series of components to the game object, such as **`CurrLanguage, DatabaseManager, GameEventSystem, GameLoop, AudioManager, LoadAssetFile`**.
 
-### **GameLoop**
+### **5.2. GameLoop**
 
 The **`GameLoop`** class acts as the game's main loop or state manager, coordinating the overall running process of the game, including scene switching and state updates. Detailed explanation of the GameLoop class's purpose:
 
@@ -126,7 +126,7 @@ The **`GameLoop`** class acts as the game's main loop or state manager, coordina
 
 - The **`GameLoop`** delegates the current scene state update to **`m_SceneStateControler`**. This means all the game logic updates are conducted through the current **`ISceneState`** instance, allowing each scene to have its own unique behavior and response.
 
-### **SceneStateControler**
+### **5.3. SceneStateControler**
 
 The **`SceneStateControler`** class is a scene state manager, responsible for controlling and managing the transitions and updates of game scene states. It employs the State Design Pattern, allowing the game to transition smoothly between different scenes such as **`TitleState`**, **`MainMenuState`**, **`MainGameState`**, etc. Here are the main components of the class:
 
@@ -156,7 +156,7 @@ The **`SceneStateControler`** class is a scene state manager, responsible for co
 
 The **`ISceneState`** interface contains three methods: **`StateBegin`** for initialization when entering a state, **`StateEnd`** for clean-up when leaving a state, and **`StateUpdate`** for the main logic in each **`Update`** cycle.
 
-### **TitleState, MainMenuState, MainGameState**
+### **5.4. TitleState, MainMenuState, MainGameState**
 
 The **`TitleState`**, **`MainMenuState`**, and **`MainGameState`** classes are concrete implementations of the **`ISceneState`** interface, used within Unity as part of the State Design Pattern, managed by **`SceneStateControler`** for the game's title screen, main menu, and main game states.
 
@@ -172,7 +172,7 @@ The **`TitleState`**, **`MainMenuState`**, and **`MainGameState`** classes are c
 
 - Called when a state ends.
 
-### **MainGameManager**
+### **5.5. MainGameManager**
 
 This script is a Unity MonoBehaviour class named **`MainGameManager`**. It manages different elements of the main game level, including UI components, game objects, and level states. It is designed to offer flexibility and reusability for different game levels and scenarios, and it utilizes encapsulation to control access to internal data within the class. It employs a singleton pattern, meaning there is only one instance of this class throughout the game, which can be accessed globally.
 
@@ -197,7 +197,7 @@ GameObject controlBlockUICanvas;
 
 ```
 
-### **MainGameStateControl**
+### **5.6. MainGameStateControl**
 
 **`MainGameStateControl`** class in Unity C# is designed to manage the game states of the main game application. Below is an outline of its key features and how it encapsulates its functionality:
 
@@ -223,7 +223,7 @@ GameObject controlBlockUICanvas;
 
 Overall, **`MainGameStateControl`** encapsulates the game state logic by tracking the current state and delegating state-specific behavior to various state objects. This encapsulation separates state management issues from the rest of the game's logic, making the code more modular and easier to maintain.
 
-### **InitState, TutorialState, GoalState, ComposeState, ReadState, ExcuseState, CompleteState**
+### **5.7. InitState, TutorialState, GoalState, ComposeState, ReadState, ExcuseState, CompleteState**
 
 These classes implement a state class of the **`IMainGameState`** interface. In the state management model, **`InitState, TutorialState, GoalState, ComposeState, ReadState, ExcuseState, CompleteState`** respectively represent the game's initial state, tutorial state, game goal explanation state, block assembly state, block reading state, block execution state, and completion state.
 
@@ -243,7 +243,7 @@ The **`Controller`** parameter is actually the **`m_SceneStateController`** in *
 
 The **`InitState, TutorialState, GoalState, ComposeState, ReadState, ExcuseState, CompleteState`** classes are responsible for defining the behavior at the start of a state, the update logic, and the cleanup work at the end of a state, while the **`MainGameStateControl`** class, as the state machine, is responsible for managing the actual changes of these states.
 
-### **GameEventSystem**
+### **5.8. GameEventSystem**
 
 **`GameEventSystem`** class in Unity implements the Observer Pattern.
 
@@ -259,7 +259,7 @@ When you want to remove all observers or when observers no longer need to receiv
 
 **`GameEventSystem`** as an implementation of the singleton pattern, ensures there is only one globally accessible event system instance in the game, allowing events to be triggered and listened to anywhere in the game. This is highly suitable for event management in game development.
 
-### **AudioManager**
+### **5.9. AudioManager**
 
 **`AudioManager`** class is used to play music and sound effects in Unity games. This class ensures that there is only one globally accessible audio manager instance.
 
@@ -277,7 +277,7 @@ Below is the explanation of this class:
 
 Through this class, audio playback, including music and sound effects, can be managed within the game. It simplifies the complexity of audio playback by encapsulating the **`AudioSource`** component and related playback logic. Using a singleton pattern ensures there is only one global **`AudioManager`** instance, allowing convenient access and control of audio anywhere in the game.
 
-### **GetAudioSource**
+### **5.10. GetAudioSource**
 
 The **`GetAudioSource`** class in Unity projects acts as a centralized storage and playback controller for audio resources. It utilizes instances of **`AudioManager`** to play various kinds of audio, including background music and sound effects, and is placed on the same object in the Unity scene as **`SingletonLoader`**.
 
@@ -291,7 +291,7 @@ The design of the **`GetAudioSource`** class is to easily trigger audio playback
 
 The scripts within **`Assets/_Script/BlockSystem`** define the gameplay involving block combinations.
 
-### **Block**
+### **6.1. Block**
 
 The **`Block`** class, inheriting from **`MonoBehaviour`**, implements the **`IBeginDragHandler`**, **`IDragHandler`**, **`IEndDragHandler`**, **`IPointerDownHandler`**, and **`IPointerUpHandler`** interfaces, indicating that objects of this class can respond to drag and pointer-related events.
 
@@ -306,7 +306,7 @@ The **`Block`** class also defines methods to handle drag events and the logic o
 - **`ApplyDelta`** method moves the block and its child blocks.
 - **`OnDrawGizmos`** method is used to draw connection points in the Unity editor.
 
-### **SimpleInstructionBlock**
+### **6.2. SimpleInstructionBlock**
 
 The **`SimpleInstructionBlock`** class, inheriting from the **`Block`** class, is a specific type of block designed for creating and managing connections of simple instruction blocks. In this class, the **`CreateConnections`** method is overridden to define how the **`SimpleInstructionBlock`** connects with other blocks.
 
@@ -314,13 +314,13 @@ By overriding the **`CreateConnections`** method, the **`SimpleInstructionBlock`
 
 All blocks are implemented based on the **`SimpleInstructionBlock`**.
 
-### **BlockFunction**
+### **6.3. BlockFunction**
 
 The **`BlockFunction`** class in Unity is a MonoBehaviour that acts as an intermediary layer, integrating actions of robots and map characters. This class does not directly perform actions but instead calls methods defined in the **`RoleControl`** class to implement various functions. Thus, the **`BlockFunction`** class can trigger complex behaviors through simple method calls, while the specific execution logic remains within the **`RoleControl`** class.
 
 **`RoleControl roleControl;`**: A variable of type **`RoleControl`**, used to reference the character controller responsible for executing actual character actions.
 
-### **ExecuteBlock**
+### **6.4. ExecuteBlock**
 
 The **`ExecuteBlock`** class in Unity is used to execute a sequence of actions related to game blocks. It calls specific character actions through the **`BlockFunction`** class and uses coroutines (**`StartCoroutine`**) to delay action execution, thereby creating a coherent sequence of actions.
 
@@ -338,7 +338,7 @@ IE_DelayExecuteBlock coroutine:
 
 Since the product will be released in mainland China, where Google services are not available, the download function is only used by planners in Unity's edit mode.
 
-### **GASDatabase**
+### **7.1. GASDatabase**
 
 The **`GASDatabase`** class is a component in Unity for communicating with Google App Script (GAS). This class is responsible for sending HTTP requests to Google Sheets to fetch or send data, which is then saved locally in JSON format. It uses Unity's **`UnityWebRequest`** and **`Coroutine`** to handle network requests asynchronously.
 
@@ -372,7 +372,7 @@ Below is the explanation of the **`GASDatabase`** class:
 
 - Retrieves or updates data by sending an HTTP POST request to the specified Google App Script URL.
 
-### **DownloadDatabaseRecord**
+### **7.2. DownloadDatabaseRecord**
 
 The **`DownloadDatabaseRecord`** class is a **`ScriptableObject`** in Unity. A **`ScriptableObject`** is a class for storing data in Unity, with instances that can be saved as asset files in the project. It is used to save configuration information for connecting to Google App Script (GAS) services to download data.
 
@@ -386,7 +386,7 @@ The **`Assets/_Script/MapTool`** directory contains the MapTool tool provided fo
 
 ![maptool](picture/maptool.png)
 
-### **MapManager**
+### **8.1. MapManager**
 
 The **`MapManager`** class is a MonoBehaviour in Unity responsible for setting up and initializing map resources and their elements, such as background music (BGM), characters, interactive characters, collectible items, and wettable objects. This class works closely with the **`MapSource`** class, which holds data for scene elements, while the **`MapManager`** class uses this data to create and place game objects.
 
@@ -399,7 +399,7 @@ Here is an explanation of the **`MapManager`** class:
 - **`GetAudioSource.BGMKinds m_bGMKinds`**: An enumeration variable that stores the types of background music.
 - Other variables, such as **`RoleObject m_roleObject`** and **`InterRoleObject m_interRoleObject`**, are used to store instances of map elements.
 
-### **MapSource**
+### **8.2. MapSource**
 
 The **`MapSource`** class is a MonoBehaviour in Unity, acting as a container for level data, storing various elements and configurations related to the level. It includes the main character, interactive characters, collectible items, wettable objects, and level objects.
 
@@ -429,7 +429,7 @@ Here is an explanation of the **`MapSource`** class:
 
 - **`public LevelBlock[] LevelBlocks;`** is an array containing the types of blocks that will appear in the level.
 
-### **MapToolEditor**
+### **8.3. MapToolEditor**
 
 The **`MapToolEditor`** class is a custom inspector panel for the Unity editor, inheriting from the **`Editor`** class. It customizes the inspection panel layout and behavior for the **`MapSource`** class.
 
@@ -437,7 +437,7 @@ The **`MapToolEditor`** class is a custom inspector panel for the Unity editor, 
 
 The **`Assets/_Script/Table`** directory contains scripts for accessing JSON files within the Resources folder.
 
-### **Database**
+### **9.1. Database**
 
 The **`Database<T>`** class is an abstract generic class that defines the foundational structure of a data management system in Unity, particularly for handling the logic of loading and constructing data from JSON data sources. With generics, this system can be easily adapted for different types of data models without writing a significant amount of redundant code for each data type. This class uses the **`LitJson`** library to handle JSON data.
 
@@ -458,11 +458,11 @@ The **`Database<T>`** class is an abstract generic class that defines the founda
 
 - **`protected SaveAndLoad saveAndLoad`**: Likely used for data saving and loading logic, the specific implementation of the **`SaveAndLoad`** class is not provided in the code but may include methods for file read/write or data persistence management.
 
-### **GameContentAudioDatabase, GameContentImageDatabase, GameContentTextDatabase, GameContentTTSDatabase, HandToHandTutorialTTSDatabase, LevelGoalTTSDatabase, LevelPassDatabase, ResultDecideDatabase, RobotmotionDatabase, TutorialTTSDatabase**
+### **9.2. GameContentAudioDatabase, GameContentImageDatabase, GameContentTextDatabase, GameContentTTSDatabase, HandToHandTutorialTTSDatabase, LevelGoalTTSDatabase, LevelPassDatabase, ResultDecideDatabase, RobotmotionDatabase, TutorialTTSDatabase**
 
 The above classes are specific implementations of **`Database<GameContentTextRow>`**, transforming JSON into a format that is convenient to invoke.
 
-### **SaveAndLoad**
+### **9.3. SaveAndLoad**
 
 The **`SaveAndLoad`** class provides a series of methods for saving and loading data in JSON format. It uses the **`LitJson`** library to handle the serialization and deserialization of JSON data. This class can be widely used for data persistence in games, such as saving game settings and player progress.
 
