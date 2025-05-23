@@ -14,6 +14,8 @@ Game Languages: Traditional Chinese, Simplified Chinese, English, Japanese
 [![Watch on YouTube](https://img.youtube.com/vi/SbxDgjwLFkE/0.jpg)](https://youtu.be/SbxDgjwLFkE?si=jAwUGwzQhiw0Pz6T)
 
 
+![Drag_Block](https://github.com/user-attachments/assets/8f0cd3af-f470-4a51-bd78-de5eb135ffdd)
+
 ## Table of Contents
 - [1. Preface](#1-preface)
 - [2. Introduction](#2-introduction)
