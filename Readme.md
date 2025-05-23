@@ -16,6 +16,9 @@ Game Languages: Traditional Chinese, Simplified Chinese, English, Japanese
 
 ![Drag_Block](https://github.com/user-attachments/assets/8f0cd3af-f470-4a51-bd78-de5eb135ffdd)
 
+![Robot](https://github.com/user-attachments/assets/0fb2adbe-f64e-489d-a633-8ed6e4849e80)
+
+
 ## Table of Contents
 - [1. Preface](#1-preface)
 - [2. Introduction](#2-introduction)
