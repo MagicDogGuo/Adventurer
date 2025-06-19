@@ -11,7 +11,9 @@ Artist: Awan Chan
 Game Languages: Traditional Chinese, Simplified Chinese, English, Japanese
 
 ## Demo Video
+
 Watch on YouTube ↓
+
 [![Watch on YouTube](https://img.youtube.com/vi/SbxDgjwLFkE/0.jpg)](https://youtu.be/SbxDgjwLFkE?si=jAwUGwzQhiw0Pz6T)
 
 
